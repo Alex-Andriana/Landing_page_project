@@ -225,6 +225,7 @@ li a {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex:1;
 }
 
 
@@ -236,6 +237,7 @@ li a {
     border-radius: 6px;
     font-weight: 900;
     font-size: 1.4vw;
+    flex:1;
 
 }
 
