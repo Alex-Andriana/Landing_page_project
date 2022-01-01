@@ -227,6 +227,7 @@ li a {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-width: fit-content;
     
 }
 
